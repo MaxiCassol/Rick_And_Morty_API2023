@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("../imagenes/fondo-de-pantalla-de-1920x1080.-fondo-para-computadora-hd-1080p-de-rick-y-morty.jpg");
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 code {

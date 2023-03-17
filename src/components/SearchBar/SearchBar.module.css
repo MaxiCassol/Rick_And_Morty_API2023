@@ -1,0 +1,24 @@
+.input{
+    background-color: rgba(128, 255, 0, 0.499);
+    border: 0px;
+    padding: 1em;
+    border-radius: 5px;
+}
+
+.botonSearch{
+    border: 0px;
+    font-size: medium;
+    background-color: rgba(35, 113, 162, 0.527);
+    color: rgb(210, 216, 210);
+    border-radius: 5px;
+    padding: 1em 2em ;
+    margin-left:1em ;
+}
+
+.div{
+    padding: 1em;
+    border-radius: 15%;
+}
+.div:hover{
+    background-color: rgba(184, 135, 11, 0.455);
+}

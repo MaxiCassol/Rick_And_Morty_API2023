@@ -1,0 +1,23 @@
+.cardd{   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.individual{
+    background-color: rgba(0, 0, 0, 0.107);
+    border-radius: 10%;
+    padding: 0,5rem 1rem;
+    align-items: center;
+    text-align: center;
+    margin: 1rem;
+}
+
+.individual:hover{
+    background-color: rgba(184, 135, 11, 0.455);
+}
+
+.cardd:hover{
+    color: rgb(15, 25, 25);
+}

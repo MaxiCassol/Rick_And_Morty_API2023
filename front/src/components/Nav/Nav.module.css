@@ -1,0 +1,22 @@
+.nav{
+    background-color: rgba(0, 0, 0, 0.107);
+    border-radius: 10%;
+    padding: 0,5rem 1rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 1rem;
+    padding: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    margin-bottom: 1em;
+    
+}
+
+.nav img{
+    /* background-image: url("https://i.pinimg.com/564x/b5/8f/e5/b58fe564580a70e29a8a88fe5a1839b7.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    width: 400; */
+    
+}

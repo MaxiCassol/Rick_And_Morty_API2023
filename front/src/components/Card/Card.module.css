@@ -1,0 +1,71 @@
+.div{
+    color: black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 20%;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    margin: auto;
+}
+
+.divButton{
+    text-align:inherit;
+    
+}
+
+.botonFav1{
+    background-color: rgba(45, 220, 80, 0.847);
+    border-radius: 50%;
+    border-color: cadetblue;
+    border-style: double;
+    font-size: large;
+    padding: 0.5rem;
+    padding-left: 0.6rem;
+    padding-right: 0.6rem;
+}
+.botonFav1:hover{
+    background-color: rgb(168, 40, 40);
+    color: cadetblue;
+}
+
+.botonFav2{
+    background-color: rgba(45, 220, 80, 0.847);
+    border-radius: 50%;
+    border-color: cadetblue;
+    border-style: double;
+    font-size: large;
+    padding: 0.5rem;
+    padding-left: 0.6rem;
+    padding-right: 0.6rem;
+}
+.botonFav2:hover{
+    background-color: rgb(170, 28, 28);
+    color: cadetblue;
+}
+
+.botonX{
+    background-color: rgba(45, 220, 80, 0.847);
+    border-radius: 50%;
+    border-color: cadetblue;
+    border-style: double;
+    font-size: large;
+    padding: 0.5rem;
+    padding-left: 0.6rem;
+    padding-right: 0.6rem;
+    margin-left: 60%;
+}
+.botonX:hover{
+    background-color: red;
+    color: cadetblue;
+}
+.name{
+    text-underline-offset: auto ;
+    text-align: center;
+}
+.imag{
+    border-radius: 20%;
+}
+.imag.hover{
+    transition: all ;
+}

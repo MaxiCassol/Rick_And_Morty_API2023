@@ -13,7 +13,9 @@ class Nav extends React.Component {
     render(){
         return(
             <div className={style.nav}>
-                <img src={titulo} width= "200px" alt="" />
+                <Link to="/home">
+                    <img src={titulo} width= "90px" height="80px" alt="" />
+                </Link>
                 <Link to="/home">
                     <h3>HOME</h3>
                 </Link>

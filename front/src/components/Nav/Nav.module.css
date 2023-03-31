@@ -3,6 +3,7 @@
     border-radius: 10%;
     padding: 0,5rem 1rem;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:larger;
     margin: 1rem;
     padding: 1em;
     display: flex;
@@ -13,10 +14,12 @@
 }
 
 .nav img{
-    /* background-image: url("https://i.pinimg.com/564x/b5/8f/e5/b58fe564580a70e29a8a88fe5a1839b7.jpg") ;
-    background-repeat: no-repeat;
-    background-size: cover;
-    
-    width: 400; */
-    
+    padding-left: 0.5rem ;
+}
+
+.nav img:hover{
+    background-color: rgba(184, 135, 11, 0.455);
+    border-radius: 70%;
+    padding-bottom: 0.5em;  
+    padding-top: 0.5em;
 }
